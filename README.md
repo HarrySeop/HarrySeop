@@ -5,7 +5,8 @@
 <!--소개-->
 
 ## Introduction :raising_hand:
-Hi, I am trying to become a nice developer:smiley:
+신발, 사진을 좋아하는 프론트엔드 개발 지망생입니다:smiley:<br/>
+부족한 만큼 더 열심히 도전해보겠습니다!:dizzy:
 <br/><br/>
 
 <!--기술스택-->
