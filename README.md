@@ -1,16 +1,16 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:BEF781,100:01DF3A&height=300&section=header&text=Welcome&fontSize=90&desc=HarrySeop's%20Github&descAlign=65)
 
-<!--
-**HarrySeop/HArrySeop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Park Ji Seop
+안녕하세요. 프론트엔드 개발지망생 박지섭입니다.
 
-Here are some ideas to get you started:
+# Email
+parkpjs3083@naver.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tech Stack
+
+used at least once
+
+# Portfolio
+
+
+# Hits
