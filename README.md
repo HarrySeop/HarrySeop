@@ -33,12 +33,24 @@ Hi, I am trying to become a nice developer:smiley:
   <!--백-->
   <br/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
- <!--언어 및 툴 --> <br/>
-
- <br/>
-
-# Hits
+ <!--언어 및 툴 --> 
+ <br/><br/>
+ 
+<!--Hits-->
+## Hits:clap:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHarrySeop&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/>
+<br/><br/>
 
+<!-- 그동안 해온 언어-->
+## mostly used language:white_check_mark:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrySeop&layout=compact)](https://github.com/HarrySeop/github-readme-stats)
+<br/><br/>
+
+<!--Github stats-->
+## Status:muscle:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarrySeop&show_icons=true&theme=radical)
+<br/><br/>
+
+## 부족하지만 열심히 해보겠습니다!:bow:
 </div>
+ 
