@@ -1,57 +1,92 @@
-<!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Hello&desc=I'm%20HarrySeop&fontSize=60&rotate=14&fontAlignY=25&fontAlign=75&descAlignY=43&descAlign=80&&animation=twinkling)
+<br/><br/><br/>
 
-<div align=center>
-<!--소개-->
+<div align=center >
+  <img src="https://readme-typing-svg.herokuapp.com?font=Alkatra&weight=500&size=35&pause=1000&color=D0F6FFEE&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+HarrySeop's+GitHub!">
+  <br/><br/><br/>
 
-## Introduction :raising_hand:
-신발, 사진을 좋아하는 프론트엔드 개발 지망생입니다:smiley:<br/>
-부족한 만큼 더 열심히 도전해보겠습니다!:dizzy:
-<br/><br/>
-
-<!--기술스택-->
-  ## Skill:baby_chick:
-
-  <!--프론트-->
-  <!--백-->
-  <!--전자통신과-->
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/>
-  <br>
-  <!--언어 및 툴 -->
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Html-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <br/><br/>
-  
-  <!--공부중 -->
-  ## Studying:pencil2: 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-  <!--백-->
-  <br/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
- <!--언어 및 툴 --> 
- <br/><br/>
- 
-<!--Hits-->
-## Hits:clap:
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHarrySeop&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/><br/>
-
-<!-- 그동안 해온 언어-->
-## mostly used language:white_check_mark:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrySeop&layout=compact)](https://github.com/HarrySeop/github-readme-stats)
-<br/><br/>
-
-<!--Github stats-->
-## Status:muscle:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarrySeop&show_icons=true&theme=radical)
-<br/><br/>
-
-## 부족하지만 열심히 해보겠습니다!:bow:
+  <a href="https://velog.io/@parkpjs3083/posts">
+    <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white" height=30px>
+  </a>&nbsp;
+  <a href="mailto:harryseop@gmail.com">
+    <img src="https://img.shields.io/badge/mail-D24235?style=for-the-badge&logo=gmail&logoColor=white" height=30px>
+  </a>&nbsp;
+  <a href="https://open.kakao.com/o/sWXXCWag">
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk" height=30px>
+  </a>
 </div>
- 
+<br/>
+
+---
+
+## 🛠️ &nbsp;Core Tech Stacks
+
+<b>JavaScript & React Library</b> 프론트엔드 개발자
+<blockquote>
+<table>
+  <tr>
+    <td rowspan="2" align="center"><b>Language</b></td>
+    <td><img src="https://staging.svgrepo.com/show/349419/javascript.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>JavaScript</b></td>
+    <td rowspan="4" ></td>
+    <td rowspan="4" align="center"><b>Frameworks <br/>&<br/> Libraries</b></td>
+    <td><img src="https://staging.svgrepo.com/show/354259/react.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>React</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://staging.svgrepo.com/show/349540/typescript.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>TypeScript</b></td>
+    <td><img src="https://staging.svgrepo.com/show/354528/vue.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Vue</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Styling</b></td>
+    <td><img src="https://www.daggala.com/static/228867c3668e439101821568a8a03b54/ec333/sc.png" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Styled Component</b></td>
+    <td><img src="https://staging.svgrepo.com/show/374035/reactts.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>React Native</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>DeployMent</b></td>
+    <td><img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Vervel</b></td>
+    <td><img src="https://staging.svgrepo.com/show/373753/light-expo.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Expo</b></td>
+  </tr>
+</table>
+</blockquote>
+
+---
+
+## 🌱 &nbsp;About Me
+
+<blockquote>
+  <table>
+    <tr>
+      <td align="center">'18. 02 ~ '22. 02</td>
+      <td align="center">경기과학기술대학교 전자통신과 졸업</td>
+      <td align="center">4.16 / 4.5</td>
+    </tr>
+    <tr>
+      <td align="center">'23. 02 ~ '25. 02</td>
+      <td align="center">성공회대학교 컴퓨터공학, 소프트웨어공학 편입, 졸업 예정</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td align="center">'23. 09 ~ '24. 08</td>
+      <td align="center">Google Developer Student Clubs SKHU Web Member</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">'23. 12 ~ '24. 02</td>
+      <td align="center">Google Developer Student Clubs 2024 Solution Challenge [Growmming]</td>
+      <td align="center"><a href="https://github.com/Growmming/Gurdening_Frontend"/>FE Repository</a></td>
+    </tr>
+  </table>
+</blockquote>
+
+---
+
+## 🎖️ &nbsp;&nbsp;Awards
+
+🥉 <b>2024 GDSC KR New Year Hackathon</b><a href="https://onoffmix.com/event/291734"/><a>&nbsp;[장려상 / 2024. 01]
+<blockquote>
+  <li><a href="https://github.com/GDSC-K/ComfortChat_FE">[ComfortChat: 경계성 지능인을 위한 일상 챗봇 도우미] Github Repository</a></li>
+  <li>주관 및 후원사 : 
+    &nbsp;&nbsp;<img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" height="12px"/>
+    &nbsp;&nbsp;<img src="https://www.svgrepo.com/show/303108/google-icon-logo.svg" height="12px"/>
+    &nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/line.svg" height="12px"/>
+    &nbsp;&nbsp;<img src="https://i.namu.wiki/i/9WpX7_pQ7dS0A4bAGT3Lu8xQRwlrZDhg3ytiIiR4op-qobo5oBWwTxC9Bfbkeoo-y9B4BrhiCQp8cey--PIFbg.svg" height="12px"/>
+    </li>
+</blockquote>
