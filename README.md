@@ -40,8 +40,8 @@
     <td><img src="https://staging.svgrepo.com/show/374035/reactts.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>React Native</b></td>
   </tr>
   <tr>
-    <td align="center"><b>DeployMent</b></td>
-    <td><img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Vervel</b></td>
+    <td align="center"><b>Deployment</b></td>
+    <td><img src="https://pipedream.com/s.v0/app_XaLh2x/logo/orig" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Vercel</b></td>
     <td><img src="https://staging.svgrepo.com/show/373753/light-expo.svg" width="16px" alt="_icon" />&nbsp;&nbsp;<b>Expo</b></td>
   </tr>
 </table>
