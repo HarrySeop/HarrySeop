@@ -86,7 +86,7 @@
   
 🥉 <b>2024 GDSC KR New Year Hackathon</b><a href="https://onoffmix.com/event/291734"/><a>&nbsp;[장려상 / 2024. 01]
 <blockquote>
-  <li><a href="https://github.com/GDSC-K/ComfortChat_FE">[ComfortChat: 경계성 지능인을 위한 일상 챗봇 도우미] Github Repository</a></li>
+  <li><a href="https://github.com/GDSC-K/ComfortChat_FE">[ComfortChat: 경계선 지능인을 위한 일상 챗봇 도우미] Github Repository</a></li>
   <li>주관 및 후원사 : 
     &nbsp;&nbsp;<img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" height="12px"/>
     &nbsp;&nbsp;<img src="https://www.svgrepo.com/show/303108/google-icon-logo.svg" height="12px"/>
