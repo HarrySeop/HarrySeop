@@ -83,7 +83,9 @@
   ## 🎖️ &nbsp;&nbsp;Awards
   
 </div>
-  
+
+<img align="right" src="https://render.gitanimals.org/lines/HarrySeop?pet-id=609772874860436944" width="250" height="180" />
+
 🥉 <b>2024 GDSC KR New Year Hackathon</b><a href="https://onoffmix.com/event/291734"/><a>&nbsp;[장려상 / 2024. 01]
 <blockquote>
   <li><a href="https://github.com/GDSC-K/ComfortChat_FE">[ComfortChat: 경계선 지능인을 위한 일상 챗봇 도우미] Github Repository</a></li>
@@ -106,3 +108,4 @@
     &nbsp;&nbsp;<img src="https://s-owl.github.io/img/logo-dark.svg" height="12px"/>
     </li>
 </blockquote>
+  
